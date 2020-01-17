@@ -9,7 +9,7 @@ const webpushCtrl = {
     // Payload Notification
     const payload = JSON.stringify({
       title: 'Hi, Welcome www.chrisweb.me  ',
-      msessage: 'hello World'
+      message: 'hello World'
     })
 
     try {
