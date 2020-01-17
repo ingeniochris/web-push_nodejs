@@ -1,0 +1,23 @@
+{
+  "name": "web_push_notification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "standard && nodemon src/index.js",
+    "start": "node src/index.js"
+  },
+  "author": "Jesus <christian.castillo.lozano@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "morgan": "^1.9.1",
+    "standard": "^14.3.1",
+    "web-push": "^3.4.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
