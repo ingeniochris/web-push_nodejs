@@ -1,2 +1,2 @@
 # Web Push Node.JS 
-## Example por  FaztWeb 
+## Ejemplo por  FaztWeb 
